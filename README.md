@@ -1,6 +1,6 @@
 <div align="center">
 
-# [![logo](https://avatars1.githubusercontent.com/u/22393631?v=3&s=200)](https://fork.dev)<br/>Fork Docs     
+# [<img width="70" src="https://avatars1.githubusercontent.com/u/22393631?v=3&s=200">](https://fork.dev)<br/>Fork Docs
 
 **User contributed documentation for Fork.dev**
 
