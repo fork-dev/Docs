@@ -21,6 +21,9 @@ Select them on the sidebar and call 'Push' from the context menu
 #### Permission denied when accessing repos in my organization on GitHub
 Ensure that Fork has access to your organization: https://github.com/settings/connections/applications/166b00df5e7ea4f78d4b
 
+#### Receiving a "request requires higher privileges" error when trying to connect to GitLab with personal access token
+Ensure the token provides access to the following scopes: `read_api`, and `user_api`
+
 #### The main window is blank (Windows)
 Most likely you are using VMWare which has a problem with hardware acceleration. You can disable it in Fork config: https://github.com/ForkIssues/TrackerWin/issues/491#issuecomment-546605221
 
