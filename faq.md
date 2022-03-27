@@ -30,7 +30,10 @@ Most likely you are using VMWare which has a problem with hardware acceleration.
 #### I can't initialize Git-Flow (Mac)
 Probably you removed SourceTree recently and it broke your environment. https://github.com/fork-dev/Tracker/issues/418#issuecomment-425818588
 
+#### Where does Fork save user settings?
+Fork's settings are kept in three files: `settings.json`, `accounts.json`, and `custom-commands.json`. Under Windows, those are kept in `%localappdata%\Fork`.
+
 #### I have a large repo and Fork shows only 50000 commits
 You can configure the limit.
 On Mac run `$ defaults write com.danpristupov.fork maxCommitCount 150000` in Terminal.
-On Windows edit the `MaxCommitCount` field in the `%localappdata%\fork\settings.json` file.
+On Windows edit the `MaxCommitCount` field in the `%localappdata%\Fork\settings.json` file.
