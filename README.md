@@ -6,7 +6,7 @@
 
 </div>
 
-This is a user contributed documentation for Fork. Right now there's no much content, but we'll see how this work out in the future.
+This is user-contributed documentation for Fork. Right now there's not much content, but we'll see how this works out in the future.
 
 ## Table of Contents
 
@@ -16,4 +16,4 @@ This is a user contributed documentation for Fork. Right now there's no much con
 2.	[Frequently Asked Questions (FAQ)](faq.md)
 
 ## Contributing
-Feel free to make a pull request for fixes and improvements. For questions or problems open an issue.
+Feel free to make a pull request for fixes and improvements. For questions or problems, open an issue.
