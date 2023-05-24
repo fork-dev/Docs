@@ -38,6 +38,7 @@
 * <kbd>Ctrl</kbd><kbd>Shift</kbd><kbd>N</kbd> - Init new repository
 * <kbd>⌘</kbd><kbd>⇧</kbd><kbd>N</kbd> - Clone new repository
 * <kbd>⌘</kbd><kbd>O</kbd> - Open repository
+* <kbd>⌘</kbd><kbd>B</kbd> - Checkout Branch
 * <kbd>⌘</kbd><kbd>⇧</kbd><kbd>F</kbd> - Fetch
 * <kbd>⌘</kbd><kbd>⌥</kbd><kbd>⇧</kbd><kbd>F</kbd> (<kbd>⌥</kbd> + click on button) - Quick Fetch 
 * <kbd>⌘</kbd><kbd>⇧</kbd><kbd>L</kbd> - Pull
