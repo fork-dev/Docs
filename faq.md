@@ -19,7 +19,7 @@ This may happen when a file is relatively small or in UTF-16 LE encoding. You ca
 Select them on the sidebar and call 'Push' from the context menu
 
 #### Permission denied when accessing repos in my organization on GitHub
-Ensure that Fork has access to your organization: https://github.com/settings/connections/applications/166b00df5e7ea4f78d4b
+Ensure that Fork has access to your organization: https://github.com/settings/connections/applications/debde513eaa447b74d51
 
 #### Receiving a "request requires higher privileges" error when trying to connect to GitLab with personal access token
 Ensure the token provides access to the following scopes: `read_api`, and `user_api`
